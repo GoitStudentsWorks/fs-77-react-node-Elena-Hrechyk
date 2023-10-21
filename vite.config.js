@@ -10,5 +10,5 @@ export default defineConfig({
       components: '/src/components',
     },
   },
-  base: '/react-project-ITSide-DrinkMaster/',
+  base: '/fs-77-react-node-Elena-Hrechyk/',
 });
