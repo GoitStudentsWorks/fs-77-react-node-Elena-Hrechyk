@@ -13,7 +13,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <Provider store={store}>
       <PersistGate loading={null} persistor={persistor}>
-        <BrowserRouter basename="/react-project-ITSide-DrinkMaster">
+        <BrowserRouter basename="/fs-77-react-node-Elena-Hrechyk">
           <ThemeProvider theme={theme}>
             <App />
           </ThemeProvider>
